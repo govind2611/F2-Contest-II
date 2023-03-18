@@ -1,0 +1,1 @@
+ console.log("Ceremony (Callback 1) Function  called!");
