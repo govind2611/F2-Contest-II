@@ -1,7 +1,7 @@
 /* if u want to run the code in VS-CODE then please uncomment the below 
 prompt because the prompt is not defined inside vs code*/
 
-let prompt = require("prompt-sync")();
+// let prompt = require("prompt-sync")();
 
 function OpeningCeremony(scores, callbackFnct) {
   console.log("Let the games begins");
